@@ -10,6 +10,14 @@ disruptions, budget constraints, medical conditions, and sudden changes. Traditi
 fail to offer real-time adaptability and personalized support. As a result, the overall travel experience 
 becomes stressful time-consuming, and inefficient. Travelers need a smarter solution that simplifies and optimizes the entire journey.
 
+System Approch
+
+Problem Identification
+System Design
+Integration of Technologies
+User focused designing
+Feedback and Adaptation (loop)
+
 Wow Factor 
 
 AI-Driven Conversation with Watson Assistant
@@ -48,7 +56,9 @@ Overall, it offers a smooth, reliable, and enjoyable travel experience.
 
 
 
+[ibm pdf.pptx](https://github.com/user-attachments/files/21580872/ibm.pdf.pptx)
 
 
 
-[ibm pdf project 1.pptx](https://github.com/user-attachments/files/21579754/ibm.pdf.project.1.pptx)
+
+
